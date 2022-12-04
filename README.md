@@ -1,3 +1,5 @@
 # Dicee-Game
+This game is kind of who is lucky will win.
 
-Open dicee.html file to play this game with your friend.
+Click here to play this game :
+# https://amansingh88688.github.io/Dicee-Game/dicee
